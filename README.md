@@ -111,7 +111,7 @@ Sometimes angels congregate into groups that host pitch events. There are severa
 
 The following VCs have student representatives at Harvard. Both DRF and RDV's student reps are also partners with investment making ability. The other funds have separate partnerships that the student representatives help scout for.
 
-* [Dorm Room Fund (DRF)](https://drf.vc/) - Student-run venture fund backed by First Round with partners in Boston, NYC, Philadelphia, and the Bay Area. Writes $20k checks to startups with student founders.
+* [Dorm Room Fund (DRF)](https://drf.vc/) - Student-run venture fund backed by First Round with partners in Boston, NYC, Philadelphia, and the Bay Area. Writes $20k checks to startups with student founders. If you have a company, you can easily[ apply here](https://drf.vc/apply).
 * [Rough Draft Ventures (RDV)](https://www.roughdraft.vc/) - Student-run venture fund backed by General Catalyst with partners in Boston, NYC, and the Bay Area. Writes $20k checks to startups with student founders.
 * [Contrary Capital](https://contrarycap.com/) - Early stage venture fund based in SF and focused on student founded companies. Has partners at 100+ universities. Writes pre-seed checks ~$250k.
 * [Romulus Capital](https://www.romuluscap.com/) - Early stage venture fund based in Cambridge and focused on B2B companies and spinouts from research groups. Writes Seed and Series A checks.
@@ -130,6 +130,7 @@ The following VCs have student representatives at Harvard. Both DRF and RDV's st
 * MassChallenge
 * Y Combinator
 * UFirst
+* Techstars
 
 ## Womxn in Entrepreneurship
 
